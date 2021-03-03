@@ -21,7 +21,7 @@
   "dependencies": {
     "bulma": "^0.8.2",
     "express": "^4.17.1",
-    "pug": "^2.0.4",
+    "pug": "^3.0.1",
     "serve-favicon": "^2.5.0"
   },
   "devDependencies": {
