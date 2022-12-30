@@ -33,7 +33,7 @@
     "@types/node": "^12.12.17",
     "@types/serve-favicon": "^2.5.0",
     "eslint": "^7.0.0",
-    "mocha": "^7.1.2",
+    "mocha": "^10.2.0",
     "tsc-watch": "^4.2.5",
     "typescript": "^3.9.2"
   }
